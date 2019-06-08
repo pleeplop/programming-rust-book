@@ -1,0 +1,2 @@
+[workspace]
+members = ["fern_sim", "fern_img", "fern_video"]

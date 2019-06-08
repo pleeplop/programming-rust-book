@@ -1,0 +1,14 @@
+[package]
+name = "fern_sim"
+version = "0.1.0"
+authors = ["pleeplop <pleeplop@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+
+[profile.debug]
+debug = true
+
+[profile.release]
+
+[profile.test]
