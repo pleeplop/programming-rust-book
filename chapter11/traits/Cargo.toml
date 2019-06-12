@@ -1,0 +1,10 @@
+[package]
+name = "traits"
+version = "0.1.0"
+authors = ["pleeplop <pleeplop@users.noreply.github.com>"]
+edition = "2018"
+
+[dependencies]
+serde = "1.0.92"
+serde_json = "1.0.39"
+rand = "0.6"
